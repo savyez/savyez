@@ -25,9 +25,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I want to be a Software Developer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m seeking job as a Full Stack Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m seeking job as a Full Stack Developer or Django Developer and contributing to frontend and backend for building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-biswas-savy/)
 
