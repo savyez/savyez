@@ -23,11 +23,6 @@
 [![An image of @savyez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savyez)](https://holopin.io/@savyez)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=savyez&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=savyez&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ### :man_technologist: About Me :
 I want to be a Software Developer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
