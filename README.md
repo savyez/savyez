@@ -12,6 +12,8 @@
   <h1>
  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <p>I am Saurabh, Detail-oriented and highly motivated software developer with a strong foundation in computer science and hands-on experience in full-stack development. 
+        Adept at problem-solving, collaborating in team environments, and delivering high-quality code. Passionate about learning new technologies and continuously improving skills.</p>
   </h1>
 
 </div>
